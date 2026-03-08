@@ -43,7 +43,7 @@ The primary goal of this project is to perform sanity checks, clean, and explore
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Kingstar20524/data-science-assignment-0.git
+   git clone https://github.com/Kingstar20524/dataScience-assignment-0.git
    ```
 2. **Navigate to the directory**:
    ```bash
